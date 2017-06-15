@@ -78,6 +78,12 @@
  post_month: "02"
  post_day: "06"
 - title: How Mobile Is Killing Innovation, And How Blockchain Can Save It
+ url: http://readwrite.com/2014/04/10/mobile-killing-innovation-html5-blockchain-apple-google
+ domain: readwrite.com
+ post_year: "2014"
+ post_month: "04"
+ post_day: "10"
+- title: How Mobile Is Killing Innovation, And How Blockchain Can Save It
  url: http://readwrite.com/2014/04/10/mobile-killing-innovation-html5-blockchain-apple-google/
  domain: readwrite.com
  post_year: "2014"
@@ -144,6 +150,12 @@
  post_month: 08
  post_day: 08
 - title: Bitcoin Wont Escape Regulation For Much Longer
+ url: http://readwrite.com/2013/08/14/bitcoin-regulation-congress
+ domain: readwrite.com
+ post_year: "2013"
+ post_month: 08
+ post_day: "14"
+- title: Bitcoin Wont Escape Regulation For Much Longer
  url: http://readwrite.com/2013/08/14/bitcoin-regulation-congress/
  domain: readwrite.com
  post_year: "2013"
@@ -156,23 +168,47 @@
  post_month: "10"
  post_day: 08
 - title: What An ATM Could Mean For The Bitcoin Community
+ url: http://readwrite.com/2013/10/11/what-an-atm-could-mean-for-the-bitcoin-community
+ domain: readwrite.com
+ post_year: "2013"
+ post_month: "10"
+ post_day: "11"
+- title: What An ATM Could Mean For The Bitcoin Community
  url: http://readwrite.com/2013/10/11/what-an-atm-could-mean-for-the-bitcoin-community/
  domain: readwrite.com
  post_year: "2013"
  post_month: "10"
  post_day: "11"
 - title: I Bought Bitcoin In Person And Heres What Happened
+ url: http://readwrite.com/2013/10/23/i-bought-bitcoin-in-person-and-heres-what-happened
+ domain: readwrite.com
+ post_year: "2013"
+ post_month: "10"
+ post_day: "23"
+- title: I Bought Bitcoin In Person And Heres What Happened
  url: http://readwrite.com/2013/10/23/i-bought-bitcoin-in-person-and-heres-what-happened/
  domain: readwrite.com
  post_year: "2013"
  post_month: "10"
  post_day: "23"
-- title: "How To Sell Bitcoin Legally"
+- title: "How To Sell Bitcoin\xE2\x80\x94Legally"
+ url: http://readwrite.com/2013/10/29/bitcoin-atm-money-services-regulation
+ domain: readwrite.com
+ post_year: "2013"
+ post_month: "10"
+ post_day: "29"
+- title: "How To Sell Bitcoin\xE2\x80\x94Legally"
  url: http://readwrite.com/2013/10/29/bitcoin-atm-money-services-regulation/
  domain: readwrite.com
  post_year: "2013"
  post_month: "10"
  post_day: "29"
+- title: Why Small Businesses Have The Most To Gain From Bitcoin
+ url: http://readwrite.com/2013/11/06/why-small-businesses-have-the-most-to-gain-from-bitcoin
+ domain: readwrite.com
+ post_year: "2013"
+ post_month: "11"
+ post_day: "06"
 - title: Why Small Businesses Have The Most To Gain From Bitcoin
  url: http://readwrite.com/2013/11/06/why-small-businesses-have-the-most-to-gain-from-bitcoin/
  domain: readwrite.com
@@ -180,17 +216,35 @@
  post_month: "11"
  post_day: "06"
 - title: What The Bitcoin Bubble Really Says About The Cryptocurrency
+ url: http://readwrite.com/2013/11/20/bitcoin-bubble-investment
+ domain: readwrite.com
+ post_year: "2013"
+ post_month: "11"
+ post_day: "20"
+- title: What The Bitcoin Bubble Really Says About The Cryptocurrency
  url: http://readwrite.com/2013/11/20/bitcoin-bubble-investment/
  domain: readwrite.com
  post_year: "2013"
  post_month: "11"
  post_day: "20"
 - title: Bitcoin Black Friday Aims To Get People To Actually Spend Their Bitcoins
+ url: http://readwrite.com/2013/11/26/bitcoin-black-friday
+ domain: readwrite.com
+ post_year: "2013"
+ post_month: "11"
+ post_day: "26"
+- title: Bitcoin Black Friday Aims To Get People To Actually Spend Their Bitcoins
  url: http://readwrite.com/2013/11/26/bitcoin-black-friday/
  domain: readwrite.com
  post_year: "2013"
  post_month: "11"
  post_day: "26"
+- title: Bitcoin Fever Has Spawned 100+ Copycat Cryptocurrencies
+ url: http://readwrite.com/2013/12/03/the-bitcoin-alternative-field-guide
+ domain: readwrite.com
+ post_year: "2013"
+ post_month: "12"
+ post_day: "03"
 - title: Bitcoin Fever Has Spawned 100+ Copycat Cryptocurrencies
  url: http://readwrite.com/2013/12/03/the-bitcoin-alternative-field-guide/
  domain: readwrite.com
@@ -199,11 +253,24 @@
  post_day: "03"
 - title: A Year In Bitcoin Why Well Still Care About The Cryptocurrency Even If It
   Fades
+ url: http://readwrite.com/2013/12/30/bitcoin-may-fade-2014-prediction
+ domain: readwrite.com
+ post_year: "2013"
+ post_month: "12"
+ post_day: "30"
+- title: A Year In Bitcoin Why Well Still Care About The Cryptocurrency Even If It
+  Fades
  url: http://readwrite.com/2013/12/30/bitcoin-may-fade-2014-prediction/
  domain: readwrite.com
  post_year: "2013"
  post_month: "12"
  post_day: "30"
+- title: What Happens To Lost Bitcoins?
+ url: http://readwrite.com/2014/01/13/what-happens-to-lost-bitcoins
+ domain: readwrite.com
+ post_year: "2014"
+ post_month: "01"
+ post_day: "13"
 - title: What Happens To Lost Bitcoins?
  url: http://readwrite.com/2014/01/13/what-happens-to-lost-bitcoins/
  domain: readwrite.com
@@ -288,6 +355,18 @@
  post_year: "2014"
  post_month: "02"
  post_day: "27"
+- title: Mt. Gox CEO Apparently Confirms Huge Bitcoin Loss
+ url: http://readwrite.com/2014/02/27/mt-gox-bitcoin-loss-theft-mark-karpeles/
+ domain: readwrite.com
+ post_year: "2014"
+ post_month: "02"
+ post_day: "27"
+- title: Bitcoin Exchange Mt. Gox Files For Bankruptcy Protection
+ url: http://readwrite.com/2014/02/28/mt-gox-bankruptcy-protection-bitcoin
+ domain: readwrite.com
+ post_year: "2014"
+ post_month: "02"
+ post_day: "28"
 - title: Bitcoin Exchange Mt. Gox Files For Bankruptcy Protection
  url: http://readwrite.com/2014/02/28/mt-gox-bankruptcy-protection-bitcoin/
  domain: readwrite.com
@@ -300,6 +379,13 @@
  post_year: "2014"
  post_month: "03"
  post_day: "06"
+- title: Dorian Satoshi Nakamoto Lawyers Up To &quot;Clear His Name&quot; Of Bitcoin
+  Claim
+ url: http://readwrite.com/2014/03/17/dorian-satoshi-nakamoto-lawyers-up-clear-name-bitcoin-claim-newsweek
+ domain: readwrite.com
+ post_year: "2014"
+ post_month: "03"
+ post_day: "17"
 - title: Dorian Satoshi Nakamoto Lawyers Up To &quot;Clear His Name&quot; Of Bitcoin
   Claim
  url: http://readwrite.com/2014/03/17/dorian-satoshi-nakamoto-lawyers-up-clear-name-bitcoin-claim-newsweek/
@@ -331,7 +417,7 @@
  post_year: "2014"
  post_month: "04"
  post_day: "15"
-- title: "The Race For A Better Bitcoin Is On But It May Still Miss The
+- title: "The Race For A Better Bitcoin Is On\xE2\x80\x94But It May Still Miss The
   Point"
  url: http://readwrite.com/2014/06/10/bitcoin-anonymity/
  domain: readwrite.com
@@ -398,7 +484,7 @@
  post_year: "2014"
  post_month: 09
  post_day: 09
-- title: "Look Out Bitcoin Wants To Get Standardized"
+- title: "Look Out\xE2\x80\x94Bitcoin Wants To Get Standardized"
  url: http://readwrite.com/2014/10/08/bitcoin-foundation-standardize-currency/
  domain: readwrite.com
  post_year: "2014"
