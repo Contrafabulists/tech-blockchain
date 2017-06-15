@@ -1,61 +1,106 @@
 ---
-- title: Unlocking blockchain for the underbanked
-  url: https://techcrunch.com/2016/03/14/unlocking-blockchain-for-the-underbanked/
+- title: Blockchain Smashers
+  url: https://techcrunch.com/2013/10/16/blockchain-smashers/
   domain: techcrunch.com
-  post_year: "2016"
+  post_year: "2013"
+  post_month: "10"
+  post_day: "16"
+- title: Enter The Blockchain How Bitcoin Can Turn The Cloud Inside Out
+  url: https://techcrunch.com/2014/03/22/enter-the-blockchain-how-bitcoin-can-turn-the-cloud-inside-out/
+  domain: techcrunch.com
+  post_year: "2014"
   post_month: "03"
-  post_day: "14"
-- title: ShoCard and SITA want to store your ID details on the blockchain to authenticate
-    travelers
-  url: https://techcrunch.com/2016/05/25/shocard-and-sita-want-to-store-your-id-details-on-the-blockchain-to-authenticate-travelers/
-  domain: www.techcrunch.com
-  post_year: "2016"
-  post_month: "05"
-  post_day: "25"
-- title: INNOVATE 2016 How the blockchain will clean up American politics
-  url: https://techcrunch.com/2016/05/29/innovate2016-how-the-blockchain-will-clean-up-american-politics/
+  post_day: "22"
+- title: Blockchain Bitcoin Wallet Is Back In The Apple App Store
+  url: https://techcrunch.com/2014/07/28/blockchain-bitcoin-wallet-is-back-in-the-apple-app-store/
   domain: techcrunch.com
-  post_year: "2016"
-  post_month: "05"
-  post_day: "29"
-- title: Mediachain enivisions a blockchain-based tool for identifying artists&#8217;
-    work across the internet  |  TechCrunch
-  url: https://techcrunch.com/2016/06/01/mediachain-enivisions-a-blockchain-based-tool-for-identifying-artists-work-across-the-internet/
-  domain: techcrunch.com
-  post_year: "2016"
-  post_month: "06"
-  post_day: "01"
-- title: Decentralizing IoT networks through blockchain
-  url: https://techcrunch.com/2016/06/28/decentralizing-iot-networks-through-blockchain/
-  domain: techcrunch.com
-  post_year: "2016"
-  post_month: "06"
+  post_year: "2014"
+  post_month: "07"
   post_day: "28"
-- title: Rakuten buys struggling bitcoin startup Bitnet to create a &#8216;blockchain
-    research lab&#8217;  |  TechCrunch
-  url: https://techcrunch.com/2016/08/18/rakuten-buys-struggling-bitcoin-startup-bitnet-to-create-a-blockchain-research-lab/
+- title: Colu Aims To Bring Blockchain Technology Everywhere
+  url: https://techcrunch.com/2015/01/27/colu-aims-to-bring-blockchain-technology-everywhere/
   domain: techcrunch.com
-  post_year: "2016"
-  post_month: 08
-  post_day: "18"
-- title: How blockchain will grow beyond bitcoin
-  url: https://techcrunch.com/2016/09/19/how-blockchain-will-grow-beyond-bitcoin/
+  post_year: "2015"
+  post_month: "01"
+  post_day: "27"
+- title: This Week On The TechCrunch Bitcoin Podcast Blockchain Or Bitcoin?
+  url: https://techcrunch.com/2015/02/26/this-week-on-the-techcrunch-bitcoin-podcast-blockchain-or-bitcoin/
   domain: techcrunch.com
-  post_year: "2016"
+  post_year: "2015"
+  post_month: "02"
+  post_day: "26"
+- title: ShoCard Is A Digital Identity Card On The Blockchain
+  url: https://techcrunch.com/2015/05/05/shocard-is-a-digital-identity-card-on-the-blockchain/
+  domain: techcrunch.com
+  post_year: "2015"
+  post_month: "05"
+  post_day: "05"
+- title: Verisart Plans To Use The Blockchain To Verify The Authenticity Of Artworks
+  url: https://techcrunch.com/2015/07/07/verisart-plans-to-use-the-blockchain-to-verify-the-authencity-of-artworks/
+  domain: techcrunch.com
+  post_year: "2015"
+  post_month: "07"
+  post_day: "07"
+- title: ShoCard Raises $1.5 Million For Its Digital Identity Card On The Blockchain
+  url: https://techcrunch.com/2015/07/17/shocard-raises-1-5-million-for-its-digital-identity-card-on-the-blockchain/
+  domain: www.techcrunch.com
+  post_year: "2015"
+  post_month: "07"
+  post_day: "17"
+- title: Stampery Leverages The Blockchain To Certify All Your Documents
+  url: http://techcrunch.com/2015/09/22/stampery-leverages-the-blockchain-to-certify-all-your-documents/
+  domain: jp.techcrunch.com
+  post_year: "2015"
   post_month: 09
-  post_day: "19"
-- title: Unpicking the Gordian knot around blockchain patents
-  url: https://techcrunch.com/2016/09/25/unpicking-the-gordian-knot-around-blockchain-patents/
+  post_day: "22"
+- title: Using The Blockchain To Fight Crime And Save Lives  |  TechCrunch
+  url: https://techcrunch.com/2015/09/27/using-the-blockchain-to-the-fight-crime-and-save-lives/
   domain: techcrunch.com
-  post_year: "2016"
+  post_year: "2015"
   post_month: 09
-  post_day: "25"
-- title: Estonia&#8217;s Funderbeam is building a blockchain
-  url: https://techcrunch.com/2016/10/12/funderbeam/
+  post_day: "27"
+- title: Microsoft Partners With ConsenSys To Use Ethereum To Provide Blockchain
+  url: https://techcrunch.com/2015/10/28/microsoft-partners-with-consensys-to-use-ethereum-to-provide-blockchain-as-a-service/
+  domain: techcrunch.com
+  post_year: "2015"
+  post_month: "10"
+  post_day: "28"
+- title: Imogen Heap To Speak About Music And The Blockchain At Disrupt London
+  url: https://techcrunch.com/2015/11/20/imogen-heap-speaks-about-music-and-the-blockchain-at-disrupt-london/
+  domain: techcrunch.com
+  post_year: "2015"
+  post_month: "11"
+  post_day: "20"
+- title: Let&#8217;s Be Honest About The Problems With Blockchain And Finance
+  url: http://techcrunch.com/2016/02/03/lets-be-honest-about-the-problems-with-blockchain-and-finance/
+  domain: jp.techcrunch.com
+  post_year: "2016"
+  post_month: "02"
+  post_day: "03"
+- title: Blockchain
+  url: http://techcrunch.com/2016/07/13/blockchain-based-banking-backend-vault-os-from-ex-googler-emerges-from-stealth-mode/
+  domain: jp.techcrunch.com
+  post_year: "2016"
+  post_month: "07"
+  post_day: "13"
+- title: Watch episode one of Trust Disrupted Bitcoin and the Blockchain
+  url: https://techcrunch.com/2016/10/10/watch-the-first-episode-of-our-new-series-trust-disrupted-bitcoin-and-the-blockchain/
   domain: techcrunch.com
   post_year: "2016"
   post_month: "10"
-  post_day: "12"
+  post_day: "10"
+- title: Watch Trust Disrupted Bitcoin and the Blockchain, episode two  |  TechCrunch
+  url: https://techcrunch.com/2016/10/10/watch-trust-disrupted-bitcoin-and-the-blockchain-episode-two/
+  domain: techcrunch.com
+  post_year: "2016"
+  post_month: "10"
+  post_day: "10"
+- title: Bitcoin searches for itself in the third episode of Bitcoin and the Blockchain  |  TechCrunch
+  url: https://techcrunch.com/2016/10/11/bitcoin-searches-for-itself-in-the-third-episode-of-bitcoin-and-the-blockchain/
+  domain: techcrunch.com
+  post_year: "2016"
+  post_month: "10"
+  post_day: "11"
 - title: Trust Disrupted Bitcoin and the Blockchain episode 5 explores the most exciting
     blockchain innovation  |  TechCrunch
   url: https://techcrunch.com/2016/10/13/trust-disrupted-bitcoin-and-the-blockchain-episode-5-explores-the-most-exciting-blockchain-innovation/
@@ -63,253 +108,48 @@
   post_year: "2016"
   post_month: "10"
   post_day: "13"
-- title: How blockchain can help fight cyberattacks
-  url: https://techcrunch.com/2016/12/05/how-blockchain-can-help-fight-cyberattacks/
+- title: Watch all six episodes of Trust Disrupted Bitcoin and the Blockchain
+  url: https://techcrunch.com/2016/10/15/watch-all-six-episodes-of-our-series-trust-disrupted-bitcoin-and-the-blockchain/
   domain: techcrunch.com
   post_year: "2016"
-  post_month: "12"
-  post_day: "05"
-- title: Electron is trying to sell a blockchain makeover to the UK&#8217;s energy
-    sector  |  TechCrunch
-  url: https://techcrunch.com/2016/12/13/electron-is-trying-to-sell-a-blockchain-makeover-to-the-uks-energy-sector/
+  post_month: "10"
+  post_day: "15"
+- title: Blockchain is empowering the future of insurance
+  url: https://techcrunch.com/2016/10/29/blockchain-is-empowering-the-future-of-insurance/
   domain: techcrunch.com
   post_year: "2016"
-  post_month: "12"
-  post_day: "13"
-- title: "How blockchain can create the world\xE2\x80\x99s biggest supercomputer"
-  url: https://techcrunch.com/2016/12/27/how-blockchain-can-create-the-worlds-biggest-supercomputer/
-  domain: techcrunch.com
-  post_year: "2016"
-  post_month: "12"
-  post_day: "27"
-- title: Spotify acquires blockchain startup Mediachain to solve music&#8217;s attribution
-    problem  |  TechCrunch
-  url: https://techcrunch.com/2017/04/26/spotify-acquires-blockchain-startup-mediachain-to-solve-musics-attribution-problem/
-  domain: techcrunch.com
-  post_year: "2017"
-  post_month: "04"
-  post_day: "26"
-- title: "How to fix the blockchain \xE2\x80\x98fail whale\xE2\x80\x99 problem  |
-    \ TechCrunch"
-  url: https://techcrunch.com/2017/04/27/how-to-fix-the-blockchain-fail-whale-problem/
-  domain: techcrunch.com
-  post_year: "2017"
-  post_month: "04"
-  post_day: "27"
-- title: Userfeeds aims to stop fake news by linking the blockchain to social content
-  url: https://techcrunch.com/2017/05/03/userfeeds-aims-to-stop-fake-news-by-linking-the-blockchain-to-social-content/
-  domain: techcrunch.com
-  post_year: "2017"
-  post_month: "05"
-  post_day: "03"
-- title: PokitDok teams with Intel on healthcare blockchain solution
-  url: https://techcrunch.com/2017/05/10/pokitdok-teams-with-intel-on-healthcare-blockchain-solution/
-  domain: techcrunch.com
-  post_year: "2017"
-  post_month: "05"
-  post_day: "10"
-- title: Chat app Kik takes on Facebook with developer ecosystem built on the blockchain
-  url: https://techcrunch.com/2017/05/25/kik-makes-a-move-into-the-blockchain/
-  domain: techcrunch.com
-  post_year: "2017"
-  post_month: "05"
-  post_day: "25"
-- title: After the Satoshi Roundtable, is there a way to bridge the bitcoin divide?
-  url: https://techcrunch.com/2016/03/13/the-great-bitcoin-divide/
-  domain: techcrunch.com
-  post_year: "2016"
-  post_month: "03"
-  post_day: "13"
-- title: Microsoft will continue to support bitcoin after &#8216;inaccurate information&#8217;
-    was posted online
-  url: http://techcrunch.com/2016/03/14/microsoft-quietly-drops-bitcoin-support-from-the-windows-store/
-  domain: jp.techcrunch.com
-  post_year: "2016"
-  post_month: "03"
-  post_day: "14"
-- title: Why Latin American economies are turning to bitcoin
-  url: https://techcrunch.com/2016/03/16/why-latin-american-economies-are-turning-to-bitcoin/
-  domain: techcrunch.com
-  post_year: "2016"
-  post_month: "03"
-  post_day: "16"
-- title: Bitcoin drops 20% after $70M worth of bitcoin was stolen from Bitfinex exchange
-  url: https://techcrunch.com/2016/08/02/bitcoin-drops-20-after-70m-worth-of-bitcoin-was-stolen-from-bitfinex-exchange/
-  domain: techcrunch.com
-  post_year: "2016"
-  post_month: 08
-  post_day: "02"
-- title: Rakuten buys struggling bitcoin startup Bitnet to create a &#8216;blockchain
-    research lab&#8217;  |  TechCrunch
-  url: https://techcrunch.com/2016/08/18/rakuten-buys-struggling-bitcoin-startup-bitnet-to-create-a-blockchain-research-lab/
-  domain: techcrunch.com
-  post_year: "2016"
-  post_month: 08
-  post_day: "18"
-- title: How blockchain will grow beyond bitcoin
-  url: https://techcrunch.com/2016/09/19/how-blockchain-will-grow-beyond-bitcoin/
-  domain: techcrunch.com
-  post_year: "2016"
-  post_month: 09
-  post_day: "19"
-- title: How bitcoin protects against geopolitical risk
-  url: https://techcrunch.com/2016/11/08/how-bitcoin-protects-against-geopolitical-risk/
+  post_month: "10"
+  post_day: "29"
+- title: Blockchain technologies could transform government services
+  url: https://techcrunch.com/2016/11/21/blockchain-technologies-could-transform-government-services/
   domain: techcrunch.com
   post_year: "2016"
   post_month: "11"
-  post_day: 08
-- title: The price of bitcoin is creeping back toward its 3
-  url: https://techcrunch.com/2016/12/28/the-price-of-bitcoin-is-creeping-back-toward-its-3-year-high-of-1000/
+  post_day: "21"
+- title: Blockchain has the potential to revolutionize the supply chain
+  url: https://techcrunch.com/2016/11/24/blockchain-has-the-potential-to-revolutionize-the-supply-chain/
   domain: techcrunch.com
   post_year: "2016"
-  post_month: "12"
-  post_day: "28"
-- title: BitPagos, now Ripio, lands $1.9M to promote financial inclusion in South
-    America using bitcoin  |  TechCrunch
-  url: https://techcrunch.com/2017/01/03/bitpagos-ripio-series-a/
-  domain: techcrunch.com
+  post_month: "11"
+  post_day: "24"
+- title: "Blockchain\xE2\x80\x95\xE6\x98\xA8\xE5\xB9\xB4\xE3\x81\xAF\xE3\x80\x8C\xE5\xB9\xBB\xE6\xBB\N\xE3\x81\xAE\xE8\xB0\xB7\xE9\x96\x93\xE3\x80\x8D\xE3\x81\xAB\xE8\x90\xBD\xE3\x81\xA1\xE3\x81\x9F\xE3\x81\x8C2017\xE5\xB9\xB4\xE3\x81\xAE\xE5\xB1\x95\xE6\x9C\x9B\xE3\x81\xAF\xE6\x98\x8E\xE3\x82\x8B\xE3\x81\x84"
+  url: http://jp.techcrunch.com/2017/01/01/20161230blockchain-technologies-entered-the-trough-of-disillusionment-in-2016-but-2017-will-be-brighter/
+  domain: jp.techcrunch.com
   post_year: "2017"
   post_month: "01"
-  post_day: "03"
-- title: One bitcoin is now worth more than one ounce of gold  |  TechCrunch
-  url: https://techcrunch.com/2017/03/02/one-bitcoin-is-now-worth-more-than-one-ounce-of-gold/
-  domain: techcrunch.com
-  post_year: "2017"
-  post_month: "03"
-  post_day: "02"
-- title: Coinbase has added margin trading to its bitcoin exchange  |  TechCrunch
-  url: https://techcrunch.com/2017/03/21/coinbase-has-added-margin-trading-to-its-bitcoin-exchange/
-  domain: techcrunch.com
-  post_year: "2017"
-  post_month: "03"
-  post_day: "21"
-- title: A brief history of cryptocurrency drama, or, what could possibly DAO wrong?
-  url: https://techcrunch.com/2016/07/02/the-only-thing-that-really-worried-me-was-the-ether/
-  domain: techcrunch.com
-  post_year: "2016"
-  post_month: "07"
-  post_day: "02"
-- title: Ledger grabs $7 million for its cryptocurrency hardware wallets  |  TechCrunch
-  url: https://techcrunch.com/2017/03/30/ledger-grabs-7-million-for-its-cryptocurrency-hardware-wallets/
-  domain: techcrunch.com
-  post_year: "2017"
-  post_month: "03"
-  post_day: "30"
-- title: Unlocking blockchain for the underbanked
-  url: https://techcrunch.com/2016/03/14/unlocking-blockchain-for-the-underbanked/
-  domain: techcrunch.com
-  post_year: "2016"
-  post_month: "03"
-  post_day: "14"
-- title: ShoCard and SITA want to store your ID details on the blockchain to authenticate
-    travelers
-  url: https://techcrunch.com/2016/05/25/shocard-and-sita-want-to-store-your-id-details-on-the-blockchain-to-authenticate-travelers/
-  domain: www.techcrunch.com
-  post_year: "2016"
-  post_month: "05"
-  post_day: "25"
-- title: INNOVATE 2016 How the blockchain will clean up American politics
-  url: https://techcrunch.com/2016/05/29/innovate2016-how-the-blockchain-will-clean-up-american-politics/
-  domain: techcrunch.com
-  post_year: "2016"
-  post_month: "05"
-  post_day: "29"
-- title: Mediachain enivisions a blockchain-based tool for identifying artists&#8217;
-    work across the internet  |  TechCrunch
-  url: https://techcrunch.com/2016/06/01/mediachain-enivisions-a-blockchain-based-tool-for-identifying-artists-work-across-the-internet/
-  domain: techcrunch.com
-  post_year: "2016"
-  post_month: "06"
   post_day: "01"
-- title: Decentralizing IoT networks through blockchain
-  url: https://techcrunch.com/2016/06/28/decentralizing-iot-networks-through-blockchain/
+- title: Blockchain consortium R3 raises $107 million
+  url: https://techcrunch.com/2017/05/23/blockchain-consortium-r3-raises-107-million/
   domain: techcrunch.com
-  post_year: "2016"
-  post_month: "06"
+  post_year: "2017"
+  post_month: "05"
+  post_day: "23"
+- title: Blockchains are the new Linux, not the new internet
+  url: https://techcrunch.com/2017/05/28/double-double-cryptocoin-bubble/
+  domain: techcrunch.com
+  post_year: "2017"
+  post_month: "05"
   post_day: "28"
-- title: Rakuten buys struggling bitcoin startup Bitnet to create a &#8216;blockchain
-    research lab&#8217;  |  TechCrunch
-  url: https://techcrunch.com/2016/08/18/rakuten-buys-struggling-bitcoin-startup-bitnet-to-create-a-blockchain-research-lab/
-  domain: techcrunch.com
-  post_year: "2016"
-  post_month: 08
-  post_day: "18"
-- title: How blockchain will grow beyond bitcoin
-  url: https://techcrunch.com/2016/09/19/how-blockchain-will-grow-beyond-bitcoin/
-  domain: techcrunch.com
-  post_year: "2016"
-  post_month: 09
-  post_day: "19"
-- title: Unpicking the Gordian knot around blockchain patents
-  url: https://techcrunch.com/2016/09/25/unpicking-the-gordian-knot-around-blockchain-patents/
-  domain: techcrunch.com
-  post_year: "2016"
-  post_month: 09
-  post_day: "25"
-- title: Estonia&#8217;s Funderbeam is building a blockchain
-  url: https://techcrunch.com/2016/10/12/funderbeam/
-  domain: techcrunch.com
-  post_year: "2016"
-  post_month: "10"
-  post_day: "12"
-- title: Trust Disrupted Bitcoin and the Blockchain episode 5 explores the most exciting
-    blockchain innovation  |  TechCrunch
-  url: https://techcrunch.com/2016/10/13/trust-disrupted-bitcoin-and-the-blockchain-episode-5-explores-the-most-exciting-blockchain-innovation/
-  domain: techcrunch.com
-  post_year: "2016"
-  post_month: "10"
-  post_day: "13"
-- title: How blockchain can help fight cyberattacks
-  url: https://techcrunch.com/2016/12/05/how-blockchain-can-help-fight-cyberattacks/
-  domain: techcrunch.com
-  post_year: "2016"
-  post_month: "12"
-  post_day: "05"
-- title: Electron is trying to sell a blockchain makeover to the UK&#8217;s energy
-    sector  |  TechCrunch
-  url: https://techcrunch.com/2016/12/13/electron-is-trying-to-sell-a-blockchain-makeover-to-the-uks-energy-sector/
-  domain: techcrunch.com
-  post_year: "2016"
-  post_month: "12"
-  post_day: "13"
-- title: "How blockchain can create the world\xE2\x80\x99s biggest supercomputer"
-  url: https://techcrunch.com/2016/12/27/how-blockchain-can-create-the-worlds-biggest-supercomputer/
-  domain: techcrunch.com
-  post_year: "2016"
-  post_month: "12"
-  post_day: "27"
-- title: Spotify acquires blockchain startup Mediachain to solve music&#8217;s attribution
-    problem  |  TechCrunch
-  url: https://techcrunch.com/2017/04/26/spotify-acquires-blockchain-startup-mediachain-to-solve-musics-attribution-problem/
-  domain: techcrunch.com
-  post_year: "2017"
-  post_month: "04"
-  post_day: "26"
-- title: "How to fix the blockchain \xE2\x80\x98fail whale\xE2\x80\x99 problem  |
-    \ TechCrunch"
-  url: https://techcrunch.com/2017/04/27/how-to-fix-the-blockchain-fail-whale-problem/
-  domain: techcrunch.com
-  post_year: "2017"
-  post_month: "04"
-  post_day: "27"
-- title: Userfeeds aims to stop fake news by linking the blockchain to social content
-  url: https://techcrunch.com/2017/05/03/userfeeds-aims-to-stop-fake-news-by-linking-the-blockchain-to-social-content/
-  domain: techcrunch.com
-  post_year: "2017"
-  post_month: "05"
-  post_day: "03"
-- title: PokitDok teams with Intel on healthcare blockchain solution
-  url: https://techcrunch.com/2017/05/10/pokitdok-teams-with-intel-on-healthcare-blockchain-solution/
-  domain: techcrunch.com
-  post_year: "2017"
-  post_month: "05"
-  post_day: "10"
-- title: Chat app Kik takes on Facebook with developer ecosystem built on the blockchain
-  url: https://techcrunch.com/2017/05/25/kik-makes-a-move-into-the-blockchain/
-  domain: techcrunch.com
-  post_year: "2017"
-  post_month: "05"
-  post_day: "25"
 - title: Bitcoin, Ven and the End of Currency
   url: https://techcrunch.com/2011/05/20/bitcoin-ven-and-the-end-of-currency/
   domain: techcrunch.com
@@ -1436,157 +1276,6 @@
   domain: techcrunch.com
   post_year: "2017"
   post_month: "04"
-  post_day: "28"
-- title: Blockchain Smashers
-  url: https://techcrunch.com/2013/10/16/blockchain-smashers/
-  domain: techcrunch.com
-  post_year: "2013"
-  post_month: "10"
-  post_day: "16"
-- title: Enter The Blockchain How Bitcoin Can Turn The Cloud Inside Out
-  url: https://techcrunch.com/2014/03/22/enter-the-blockchain-how-bitcoin-can-turn-the-cloud-inside-out/
-  domain: techcrunch.com
-  post_year: "2014"
-  post_month: "03"
-  post_day: "22"
-- title: Blockchain Bitcoin Wallet Is Back In The Apple App Store
-  url: https://techcrunch.com/2014/07/28/blockchain-bitcoin-wallet-is-back-in-the-apple-app-store/
-  domain: techcrunch.com
-  post_year: "2014"
-  post_month: "07"
-  post_day: "28"
-- title: Colu Aims To Bring Blockchain Technology Everywhere
-  url: https://techcrunch.com/2015/01/27/colu-aims-to-bring-blockchain-technology-everywhere/
-  domain: techcrunch.com
-  post_year: "2015"
-  post_month: "01"
-  post_day: "27"
-- title: This Week On The TechCrunch Bitcoin Podcast Blockchain Or Bitcoin?
-  url: https://techcrunch.com/2015/02/26/this-week-on-the-techcrunch-bitcoin-podcast-blockchain-or-bitcoin/
-  domain: techcrunch.com
-  post_year: "2015"
-  post_month: "02"
-  post_day: "26"
-- title: ShoCard Is A Digital Identity Card On The Blockchain
-  url: https://techcrunch.com/2015/05/05/shocard-is-a-digital-identity-card-on-the-blockchain/
-  domain: techcrunch.com
-  post_year: "2015"
-  post_month: "05"
-  post_day: "05"
-- title: Verisart Plans To Use The Blockchain To Verify The Authenticity Of Artworks
-  url: https://techcrunch.com/2015/07/07/verisart-plans-to-use-the-blockchain-to-verify-the-authencity-of-artworks/
-  domain: techcrunch.com
-  post_year: "2015"
-  post_month: "07"
-  post_day: "07"
-- title: ShoCard Raises $1.5 Million For Its Digital Identity Card On The Blockchain
-  url: https://techcrunch.com/2015/07/17/shocard-raises-1-5-million-for-its-digital-identity-card-on-the-blockchain/
-  domain: www.techcrunch.com
-  post_year: "2015"
-  post_month: "07"
-  post_day: "17"
-- title: Stampery Leverages The Blockchain To Certify All Your Documents
-  url: http://techcrunch.com/2015/09/22/stampery-leverages-the-blockchain-to-certify-all-your-documents/
-  domain: jp.techcrunch.com
-  post_year: "2015"
-  post_month: 09
-  post_day: "22"
-- title: Using The Blockchain To Fight Crime And Save Lives  |  TechCrunch
-  url: https://techcrunch.com/2015/09/27/using-the-blockchain-to-the-fight-crime-and-save-lives/
-  domain: techcrunch.com
-  post_year: "2015"
-  post_month: 09
-  post_day: "27"
-- title: Microsoft Partners With ConsenSys To Use Ethereum To Provide Blockchain
-  url: https://techcrunch.com/2015/10/28/microsoft-partners-with-consensys-to-use-ethereum-to-provide-blockchain-as-a-service/
-  domain: techcrunch.com
-  post_year: "2015"
-  post_month: "10"
-  post_day: "28"
-- title: Imogen Heap To Speak About Music And The Blockchain At Disrupt London
-  url: https://techcrunch.com/2015/11/20/imogen-heap-speaks-about-music-and-the-blockchain-at-disrupt-london/
-  domain: techcrunch.com
-  post_year: "2015"
-  post_month: "11"
-  post_day: "20"
-- title: Let&#8217;s Be Honest About The Problems With Blockchain And Finance
-  url: http://techcrunch.com/2016/02/03/lets-be-honest-about-the-problems-with-blockchain-and-finance/
-  domain: jp.techcrunch.com
-  post_year: "2016"
-  post_month: "02"
-  post_day: "03"
-- title: Blockchain
-  url: http://techcrunch.com/2016/07/13/blockchain-based-banking-backend-vault-os-from-ex-googler-emerges-from-stealth-mode/
-  domain: jp.techcrunch.com
-  post_year: "2016"
-  post_month: "07"
-  post_day: "13"
-- title: Watch episode one of Trust Disrupted Bitcoin and the Blockchain
-  url: https://techcrunch.com/2016/10/10/watch-the-first-episode-of-our-new-series-trust-disrupted-bitcoin-and-the-blockchain/
-  domain: techcrunch.com
-  post_year: "2016"
-  post_month: "10"
-  post_day: "10"
-- title: Watch Trust Disrupted Bitcoin and the Blockchain, episode two  |  TechCrunch
-  url: https://techcrunch.com/2016/10/10/watch-trust-disrupted-bitcoin-and-the-blockchain-episode-two/
-  domain: techcrunch.com
-  post_year: "2016"
-  post_month: "10"
-  post_day: "10"
-- title: Bitcoin searches for itself in the third episode of Bitcoin and the Blockchain  |  TechCrunch
-  url: https://techcrunch.com/2016/10/11/bitcoin-searches-for-itself-in-the-third-episode-of-bitcoin-and-the-blockchain/
-  domain: techcrunch.com
-  post_year: "2016"
-  post_month: "10"
-  post_day: "11"
-- title: Trust Disrupted Bitcoin and the Blockchain episode 5 explores the most exciting
-    blockchain innovation  |  TechCrunch
-  url: https://techcrunch.com/2016/10/13/trust-disrupted-bitcoin-and-the-blockchain-episode-5-explores-the-most-exciting-blockchain-innovation/
-  domain: techcrunch.com
-  post_year: "2016"
-  post_month: "10"
-  post_day: "13"
-- title: Watch all six episodes of Trust Disrupted Bitcoin and the Blockchain
-  url: https://techcrunch.com/2016/10/15/watch-all-six-episodes-of-our-series-trust-disrupted-bitcoin-and-the-blockchain/
-  domain: techcrunch.com
-  post_year: "2016"
-  post_month: "10"
-  post_day: "15"
-- title: Blockchain is empowering the future of insurance
-  url: https://techcrunch.com/2016/10/29/blockchain-is-empowering-the-future-of-insurance/
-  domain: techcrunch.com
-  post_year: "2016"
-  post_month: "10"
-  post_day: "29"
-- title: Blockchain technologies could transform government services
-  url: https://techcrunch.com/2016/11/21/blockchain-technologies-could-transform-government-services/
-  domain: techcrunch.com
-  post_year: "2016"
-  post_month: "11"
-  post_day: "21"
-- title: Blockchain has the potential to revolutionize the supply chain
-  url: https://techcrunch.com/2016/11/24/blockchain-has-the-potential-to-revolutionize-the-supply-chain/
-  domain: techcrunch.com
-  post_year: "2016"
-  post_month: "11"
-  post_day: "24"
-- title: "Blockchain\xE2\x80\x95\xE6\x98\xA8\xE5\xB9\xB4\xE3\x81\xAF\xE3\x80\x8C\xE5\xB9\xBB\xE6\xBB\N\xE3\x81\xAE\xE8\xB0\xB7\xE9\x96\x93\xE3\x80\x8D\xE3\x81\xAB\xE8\x90\xBD\xE3\x81\xA1\xE3\x81\x9F\xE3\x81\x8C2017\xE5\xB9\xB4\xE3\x81\xAE\xE5\xB1\x95\xE6\x9C\x9B\xE3\x81\xAF\xE6\x98\x8E\xE3\x82\x8B\xE3\x81\x84"
-  url: http://jp.techcrunch.com/2017/01/01/20161230blockchain-technologies-entered-the-trough-of-disillusionment-in-2016-but-2017-will-be-brighter/
-  domain: jp.techcrunch.com
-  post_year: "2017"
-  post_month: "01"
-  post_day: "01"
-- title: Blockchain consortium R3 raises $107 million
-  url: https://techcrunch.com/2017/05/23/blockchain-consortium-r3-raises-107-million/
-  domain: techcrunch.com
-  post_year: "2017"
-  post_month: "05"
-  post_day: "23"
-- title: Blockchains are the new Linux, not the new internet
-  url: https://techcrunch.com/2017/05/28/double-double-cryptocoin-bubble/
-  domain: techcrunch.com
-  post_year: "2017"
-  post_month: "05"
   post_day: "28"
 - title: As Auroracoin &#8220;Airdrop&#8221; Approaches, What Does It Mean When A
     Nation Adopts A Cryptocurrency?
