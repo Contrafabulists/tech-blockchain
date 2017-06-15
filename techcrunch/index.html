@@ -7,6 +7,6 @@ layout: default
 {% assign quotes = site.data.techcrunch | sort: 'post_year' %}
 <ul>
 {% for entry in quotes %}
-    <li><a href="{{ entry.url }}">{{ entry.title }}</a></li>
+    <li><em>({{ entry.post_year }}-{{ entry.post_month }}-{{ entry.post_day }})</em><a href="{{ entry.url }}">{{ entry.title }}</a></li>
 {% endfor %}
 </ul>
